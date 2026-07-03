@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ueniagency.com
+
+# Sitemaps
+Sitemap: https://ueniagency.com/sitemap.xml
