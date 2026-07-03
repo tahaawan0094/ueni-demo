@@ -198,13 +198,13 @@ export default function AboutUsPage() {
             <article className="rounded-[32px] bg-white p-6 text-center shadow-[0_25px_60px_rgba(15,23,42,0.08)]">
               <div className="mx-auto mb-6 h-[250px] w-full overflow-hidden rounded-[32px] bg-slate-100">
                 <img
-                  src="/About-Us/founder-taha-awan.webp"
-                  alt="Taha Awan portrait"
-                  title="Taha Awan"
+                  src=""
+                  alt=""
+                  title="Ueni"
                   className="h-full w-full object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold text-[#0f172a]">Taha Awan</h3>
+              <h3 className="text-xl font-semibold text-[#0f172a]">Ueni</h3>
               <p className="mt-4 text-base leading-7 text-[#475569]">
                 CEO & Founder – Turning ideas into momentum every single day.
               </p>
@@ -213,13 +213,13 @@ export default function AboutUsPage() {
             <article className="rounded-[32px] bg-white p-6 text-center shadow-[0_25px_60px_rgba(15,23,42,0.08)]">
               <div className="mx-auto mb-6 h-[250px] w-full overflow-hidden rounded-[32px] bg-slate-100">
                 <img
-                  src="/About-Us/co-founder-aamar.webp"
-                  alt="M.Aamar portrait"
-                  title="M.Aamar"
+                  src=""
+                  alt=""
+                  title=""
                   className="h-full w-full object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold text-[#0f172a]">M.Aamar</h3>
+              <h3 className="text-xl font-semibold text-[#0f172a]">Alex</h3>
               <p className="mt-4 text-base leading-7 text-[#475569]">
                 Co-Founder. Speaks 12 languages. Strategic thinker with high standards. Big-hearted.
               </p>

@@ -49,7 +49,7 @@ const faqs = [
             href="tel:+92-335-2831551"
             className="text-[#2d6bff] underline-offset-2 hover:underline"
           >
-            (92) 335-2831551
+            (92) 123-3344555
           </a>
           . Our team is ready to guide you in choosing the best plan.
         </p>
@@ -127,7 +127,7 @@ export default function FaqSection() {
             <p className="mt-8 text-lg text-white/70">Still have questions?</p>
             <p className="mt-4 text-lg text-white/60">
               Call us:{" "}
-              <span className="text-[#2d6bff]">(92) 335-2831551</span>
+              <span className="text-[#2d6bff]">(92) 123-3344555</span>
             </p>
             <p className="mt-6 text-lg text-[#FF5A4E]">reach.ueni@gmail.com</p>
           </div>
@@ -176,7 +176,7 @@ export default function FaqSection() {
               <p className="text-lg text-white/70">Still have questions?</p>
               <p className="mt-4 text-lg text-white/60">
                 Call us:{" "}
-                <span className="text-[#2d6bff]">(92) 335-2831551</span>
+                <span className="text-[#2d6bff]">(92) 123-3344555</span>
               </p>
               <p className="mt-6 text-lg text-[#FF5A4E]">reach.ueni@gmail.com</p>
             </div>

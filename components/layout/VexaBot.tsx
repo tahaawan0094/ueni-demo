@@ -74,7 +74,7 @@ export default function VexaBot() {
       id: 1,
       from: "bot",
       text:
-        "Hi 👋 I’m Vexa. I can help you with websites, pricing, SEO, or ecommerce.",
+        "Hi 👋 I’m Ueni. I can help you with websites, pricing, SEO, or ecommerce.",
     },
   ]);
 
@@ -146,8 +146,8 @@ export default function VexaBot() {
                   </div>
 
                   <div>
-                    <p className="text-white font-semibold">Vexa</p>
-                    <p className="text-xs text-gray-400">AI Website Assistant</p>
+                    <p className="text-white font-semibold">Ueni</p>
+                    <p className="text-xs text-gray-400">Website Assistant</p>
                   </div>
                 </div>
 

@@ -8,7 +8,6 @@ const productLinks = [
 ];
 const companyLinks = [
   { label: "About Us", href: "/about-us" },
-  { label: "Founder", href: "/founder" },
   { label: "Careers", href: "#" },
   { label: "Blog", href: "/blogs" },
   { label: "Contact", href: "/contact" },
@@ -80,7 +79,7 @@ export default function FooterLinksSection() {
                 <ul className="mt-5 flex gap-4">
                   <li>
                     <a 
-                      href="https://www.linkedin.com/in/ueni-io-b03923410/" 
+                      href="https://www.linkedin.com" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="hover:text-blue-400 transition-colors"
@@ -93,7 +92,7 @@ export default function FooterLinksSection() {
                   </li>
                   <li>
                     <a 
-                      href="https://www.facebook.com/profile.php?id=61589778596884" 
+                      href="https://www.facebook.com/" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="hover:text-blue-500 transition-colors"
@@ -106,7 +105,7 @@ export default function FooterLinksSection() {
                   </li>
                   <li>
                     <a 
-                      href="https://www.instagram.com/ueni.io/" 
+                      href="https://www.instagram.com/" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="hover:text-pink-400 transition-colors"
@@ -119,7 +118,7 @@ export default function FooterLinksSection() {
                   </li>
                   <li>
                     <a 
-                      href="https://x.com/uenidev" 
+                      href="https://x.com/" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="hover:text-gray-400 transition-colors"
@@ -134,7 +133,7 @@ export default function FooterLinksSection() {
                   
                   <li>
                     <a 
-                      href="https://wa.me/923352831551" 
+                      href="https://wa.me/1234567890" 
                       target="_blank"
                       rel="noopener noreferrer"
                       className="hover:text-[#25D366] transition-colors"

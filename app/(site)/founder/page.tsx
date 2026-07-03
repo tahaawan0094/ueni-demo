@@ -4,16 +4,16 @@ import FooterLinksSection from "@/components/sections/FooterLinksSection";
 import PageTransition from "@/components/animations/PageTransition";
 
 export const metadata: Metadata = {
-  title: "Meet the Founder of Ueni | Web Development Agency",
+  title: "Meet the Founder of Ueni ",
   description:
-    "Meet the founder of Ueni, a Karachi-based web development agency specializing in custom websites, WordPress development, ecommerce solutions, and SEO services.",
+    "Meet the founder of Ueni, Specializing in custom websites, WordPress development, ecommerce solutions, and SEO services.",
   alternates: {
     canonical: "https://ueniagency.com/founder",
   },
   openGraph: {
     title: "Meet the Founder of Ueni | Web Development Agency",
     description:
-      "Meet the founder of Ueni, a Karachi-based web development agency specializing in custom websites, WordPress development, ecommerce solutions, and SEO services.",
+      "Meet the founder of Ueni, Specializing in websites, WordPress development, ecommerce solutions, and SEO services.",
     url: "https://ueniagency.com/founder",
     type: "website",
     siteName: "Ueni",
@@ -24,19 +24,19 @@ export default function FounderPage() {
   const founderSchema = {
     "@context": "https://schema.org",
     "@type": "Person",
-    "@id": "https://ueniagency.com/#taha-awan",
-    name: "Taha Awan",
+    "@id": "https://ueniagency.com/#ueni",
+    name: "Ueni",
     jobTitle: "CEO & Founder",
     worksFor: {
       "@id": "https://ueniagency.com/#organization",
     },
     url: "https://ueniagency.com/founder",
-    image: "https://ueniagency.com/About-Us/founder-taha-awan.webp",
+    image: "https://ueniagency.com/About-Us/",
     sameAs: [
-      "https://www.linkedin.com/in/ueni-io-b03923410/",
-      "https://www.facebook.com/profile.php?id=61589778596884",
-      "https://www.instagram.com/ueni.io/",
-      "https://x.com/uenidev",
+      "https://www.linkedin.com/",
+      "https://www.facebook.com/",
+      "https://www.instagram.com/",
+      "https://x.com",
     ],
   };
 
@@ -56,7 +56,7 @@ export default function FounderPage() {
               Meet the Founder of Ueni
             </h1>
             <p className="text-lg md:text-xl text-white/80 max-w-[700px] mx-auto leading-relaxed font-accent">
-              Learn about Taha Awan's journey building a web development agency focused on helping businesses succeed online.
+              Learn about Ueni's journey of building a web development focused on helping businesses succeed online.
             </p>
           </div>
         </section>
@@ -66,7 +66,7 @@ export default function FounderPage() {
           <div className="mx-auto max-w-[900px]">
             {/* Introduction */}
             <div className="mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold mb-8 font-display">Hi, I'm Taha Awan</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-8 font-display">Hi, I'm Ueni</h2>
               <div className="space-y-6 text-white/80 leading-relaxed">
                 <p className="text-lg">
                   I'm the founder of Ueni. I started Ueni with a simple goal: helping businesses build modern, high-performing websites that not only look great but also drive real business growth.
@@ -253,7 +253,7 @@ export default function FounderPage() {
             <div className="bg-white/5 border border-white/10 rounded-2xl p-8 md:p-12">
               <h3 className="text-2xl font-bold mb-4 font-display">About the Author</h3>
               <p className="text-white/80 text-lg leading-relaxed">
-                <span className="font-semibold text-white">Taha Awan</span> is the Founder of Ueni, a web development agency based in Karachi, Pakistan. He specializes in custom website development, WordPress development, ecommerce solutions, and SEO-focused web experiences. With a focus on delivering high-performance websites that drive business growth, Taha is committed to helping businesses establish and succeed in the digital world.
+                <span className="font-semibold text-white">Ueni</span> is the Founder of Ueni, a web development company. It specializes in custom website development, WordPress development, ecommerce solutions, and SEO-focused web experiences. With a focus on delivering high-performance websites that drive business growth, Ueni is committed to helping businesses establish and succeed in the digital world.
               </p>
             </div>
           </div>

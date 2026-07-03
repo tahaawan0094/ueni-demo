@@ -25,15 +25,11 @@ const navLinks: NavLink[] = [
     dropdown: true,
     items: [
       {
-        label: "Get a wordpress website",
+        label: "Done for you website",
         href: "/get-wordpress-website",
         icon: "globe",
       },
-      {
-        label: "Get custom website",
-        href: "/get-custom-website",
-        icon: "globe",
-      },
+     
       {
         label: "Concierge services",
         href: "/concierge-services",
@@ -254,7 +250,7 @@ export default function Navbar() {
         <div className="flex flex-shrink-0 items-center justify-end gap-4 sm:gap-6">
           {/* Call Section */}
           <a
-            href="https://wa.me/923352831551"
+            href="https://wa.me/1234567890"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 text-white/90 max-[960px]:hidden hover:text-white transition-colors"
@@ -265,7 +261,7 @@ export default function Navbar() {
 
             <div className="flex flex-col leading-tight">
               <span className="whitespace-nowrap text-[0.95rem] font-semibold">
-                Call Us: (92) 335-2831551
+                Call Us: (92) 123-3344555
               </span>
 
               <span className="whitespace-nowrap text-[0.65rem] tracking-tight text-white/50">

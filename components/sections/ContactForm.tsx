@@ -121,7 +121,7 @@ export default function ContactForm() {
                   className="mb-8"
                 >
                   <h3 className="text-white font-semibold mb-2 text-sm uppercase tracking-wider">Address</h3>
-                  <p className="text-white/80 text-base">DHA phase 6 Defence V Defence Housing Authority</p>
+                  <p className="text-white/80 text-base">demo address street 2</p>
                   <div className="mt-3 border-t border-white/10" />
                 </motion.div>
 
@@ -133,7 +133,7 @@ export default function ContactForm() {
                   className="mb-8"
                 >
                   <h3 className="text-white font-semibold mb-2 text-sm uppercase tracking-wider">Phone</h3>
-                  <p className="text-white/80 text-base">+92 336 824 0877</p>
+                  <p className="text-white/80 text-base">92 123-3344555</p>
                   <div className="mt-3 border-t border-white/10" />
                 </motion.div>
 
